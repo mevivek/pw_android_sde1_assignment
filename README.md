@@ -37,5 +37,5 @@ Jetpack Compose is used for building the UI.
 
 ## Screenshots
 - ![Screenshot 1](https://github.com/mevivek/pw_android_sde1_assignment/blob/master/screenshots/1.png)
-- ![Screenshot 2](https://github.com/mevivek/pw_android_sde1_assignment/blob/master/screenshots/1.png)
+- ![Screenshot 2](https://github.com/mevivek/pw_android_sde1_assignment/blob/master/screenshots/2.png)
 
