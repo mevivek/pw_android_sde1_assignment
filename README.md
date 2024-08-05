@@ -30,3 +30,10 @@ The Paging library is used for handling paginated data. The `PokemonRepository.k
 
 ## UI
 Jetpack Compose is used for building the UI.
+
+## [Screen Recording](https://github.com/mevivek/pw_android_sde1_assignment/blob/master/screenshots/3.mp4)
+
+## Screenshots
+- ![Screenshot 1](https://github.com/mevivek/pw_android_sde1_assignment/blob/master/screenshots/1.png)
+- ![Screenshot 2](https://github.com/mevivek/pw_android_sde1_assignment/blob/master/screenshots/1.png)
+
